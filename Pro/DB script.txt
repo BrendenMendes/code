@@ -1,0 +1,7 @@
+create table customer {
+name varchar(20) not null,
+age int(2),
+gender char(6),
+pincode varchar(6),
+city varchar(20)
+};
